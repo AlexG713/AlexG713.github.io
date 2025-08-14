@@ -57,7 +57,8 @@ main {
 }
 
 .sidebar-img {
-    width: 200px;
+    width: 225px;
+    border-radius: 10px;
 }
 
 .content {
