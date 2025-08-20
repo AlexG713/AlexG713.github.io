@@ -63,6 +63,11 @@ main {
     border-radius: 10px;
 }
 
+.sidebar-img-2 {
+    width: 375px;
+    justify-content: center;
+}
+
 .content {
     flex: 1;
     padding: 15px;
@@ -141,6 +146,10 @@ h2, h3 {
   }
 
   .sidebar-img {
+    width: 100%;
+  }
+
+  .sidebar-img-2 {
     width: 100%;
   }
 
