@@ -52,7 +52,7 @@ $(function () {
     createCollectable("max", 425, 675, 0)
     createCollectable("grace", 825, 40, 0)
     // TODO 4 - Create Cannons
-    createCannon("bottom", 1200, 1500)
+    createCannon("bottom", 1200, 1250)
     createCannon("top", 310, 1000)
     createCannon("bottom", 690, 1000)
     //////////////////////////////////
