@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+}
+
+canvas {
+  background-color: darkgray;
+  margin: 20px;
+}
+
+img {
+  display: none;
+}
